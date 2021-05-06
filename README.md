@@ -8,10 +8,15 @@ Part 2 answers to the SQL questions can be found below:
 a.	How many orders were shipped by Speedy Express in total?
 
 SELECT COUNT(*)
+
 FROM Shippers AS S
+
 INNER JOIN Orders AS O
+
 ON S.ShipperID = O.ShipperID
+
 WHERE ShipperName = 'Speedy Express'
+
 
 Final Answer: 54
 
