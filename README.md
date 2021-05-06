@@ -3,6 +3,8 @@ Technical Challenge of Shopify Data Science Internship
 
 Part 1 answers can be found in the jupyter notebook .ipynb file.
 
+
+
 Part 2 answers to the SQL questions can be found below:
 
 a.	How many orders were shipped by Speedy Express in total?
